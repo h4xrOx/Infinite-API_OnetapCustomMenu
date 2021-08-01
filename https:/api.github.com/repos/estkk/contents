@@ -1,0 +1,18 @@
+[
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "28dbcda547f48e7dee4b466a5bac559df188575a",
+    "size": 29142,
+    "url": "https://api.github.com/repos/estkk/Infinite-API/contents/README.md?ref=main",
+    "html_url": "https://github.com/estkk/Infinite-API/blob/main/README.md",
+    "git_url": "https://api.github.com/repos/estkk/Infinite-API/git/blobs/28dbcda547f48e7dee4b466a5bac559df188575a",
+    "download_url": "https://raw.githubusercontent.com/estkk/Infinite-API/main/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/estkk/Infinite-API/contents/README.md?ref=main",
+      "git": "https://api.github.com/repos/estkk/Infinite-API/git/blobs/28dbcda547f48e7dee4b466a5bac559df188575a",
+      "html": "https://github.com/estkk/Infinite-API/blob/main/README.md"
+    }
+  }
+]
