@@ -1,4 +1,5 @@
 # Infinite-API
+https://discord.gg/ZXuu6vdg85
 https://api.github.com/repos/estkk/Infinite-API
 
 <a name="-1"></a>
